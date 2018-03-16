@@ -1,0 +1,26 @@
+Source: neptune-settings-enlightenment
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: neptune-settings-enlightenment
+Architecture: all
+Depends: enlightenment
+Recommends: terminology, rage, neptune-themes-enlightenment, neptune-backgrounds-enlightenment
+Replaces: enlightenment-data, libelementary-data
+Description: Settings package for Neptunes enlightenment desktop
+  This package provides the neptune settings for enlightenment.
+  
+Package: neptune-themes-enlightenment
+Architecture: all
+Depends: enlightenment
+Description: Themes package for Neptunes enlightenment desktop
+  This package provides the neptune themes for enlightenment.
+  
+Package: neptune-backgrounds-enlightenment
+Architecture: all
+Depends: enlightenment
+Description: Backgrounds package for Neptunes enlightenment desktop
+  This package provides the neptune backgrounds for enlightenment.
