@@ -1,4 +1,11 @@
-neptune-settings-enlightenment (1.0) unstable; urgency=medium
+neptune-settings-enlightenment (1.1) stretch; urgency=medium
+
+  * Added acpid and connman to recommends
+  * Configured profiles to use connman activated by default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 16 Mar 2018 21:51:25 +0100
+
+neptune-settings-enlightenment (1.0) stretch; urgency=medium
 
   * Initial release
 

@@ -8,7 +8,7 @@ Standards-Version: 3.7.2
 Package: neptune-settings-enlightenment
 Architecture: all
 Depends: enlightenment
-Recommends: terminology, rage, neptune-themes-enlightenment, neptune-backgrounds-enlightenment
+Recommends: terminology, rage, neptune-themes-enlightenment, neptune-backgrounds-enlightenment, acpid, connman-ui
 Replaces: enlightenment-data, libelementary-data
 Description: Settings package for Neptunes enlightenment desktop
   This package provides the neptune settings for enlightenment.
